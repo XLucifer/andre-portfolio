@@ -1,0 +1,73 @@
+
+{
+    "timeline":
+    {
+        "headline":"André Luz da Silva",
+        "type":"default",
+		"startDate":"2009,1",
+		"text":"<i><span class='c1'>Frontend</span> & <span class='c2'>Developer</span></i>",
+		"asset":
+        {
+            "media":"assets/img/notes.png",
+            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"2010,1",
+                "headline":"Kabupy",
+                "text":"Loja feminina de bolsas e roupas",
+                "asset":
+                {
+                    "media":"assets/img/shots/kabupy.jpg",
+                    "credit":"<a title='Kabupy' href='http://www.kabupy.com.br/'>kabupy.com.br</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,2",
+                "headline":"Ladysoft",
+                "text":"A Melhoramentos Papéis é uma das mais tradicionais empresas no Brasil no segmento de papéis absorventes",
+                "asset":
+                {
+                    "media":"assets/img/shots/ladysoft.jpg",
+                    "credit":"<a href='http://www.ladysoft.com.br'>Ladysoft.com.br</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,9",
+                "headline":"Editora FGV",
+                "text":"Loja virtual FGV",
+                "asset":
+                {
+                    "media":"assets/img/shots/fgv.jpg",
+                    "credit":"<a href='http://www.editora.fgv.br/?sub=main' title='Editora FGV'>editora.fgv.br</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,10",
+                "headline":"Livraria RT",
+                "text":"Loja virtual RT",
+                "asset":
+                {
+                    "media":"assets/img/shots/rt.jpg",
+                    "credit":"<a href='http://www.livrariart.com.br'>Livraria RT</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,3",
+                "headline":"Lojas Manlec",
+                "text":"Eletrodomésticos e itens para o seu lar",
+                "asset":
+                {
+                    "media":"assets/img/shots/manlec.jpg",
+                    "credit":"<a href='http://www.manlec.com.br'>Manlec.com.br</a>",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}

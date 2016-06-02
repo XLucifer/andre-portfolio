@@ -1,0 +1,13 @@
+{
+  "name": "static",
+  "version": "0.0.1",
+  "author": "André Luz da Silva dresch666@gmail.com",
+  "description": "A Portfolio 's André Luz",
+  "engines":{
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "node-static": "*"
+  }
+}
